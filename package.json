@@ -1,0 +1,29 @@
+{
+  "name": "realtime-clock",
+  "version": "1.0.0",
+  "description": "Simple clock with NodeJs",
+  "main": "app.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^3.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Halfeld/realtime-clock.git"
+  },
+  "keywords": [
+    "clock",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Halfeld <igorelmerico@hotmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Halfeld/realtime-clock/issues"
+  },
+  "homepage": "https://github.com/Halfeld/realtime-clock#readme"
+}
