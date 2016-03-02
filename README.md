@@ -1,7 +1,7 @@
 # Realtime Clock
 ![demo](demo.png)
 
-# Start the clock
+## Start the clock
 
 ```sh
 $ npm install
